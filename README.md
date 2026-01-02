@@ -16,7 +16,7 @@ The module has two optional parameters, capitalize and original. At default both
 At default option, the module turns everything to lowercase letters, so it runs faster.
 The same when capitalized = True.
 
-When we choose original = True (capitalize can be True or False.The result will be the same) the module returns the original inserted values sorted. This option is slower, as it uses for loops.
+When we choose original = True (capitalize can be True or False. The result will be the same) the module returns the original inserted values sorted. This option is slower, as it uses for loops.
 
 ## Details
 
@@ -24,7 +24,7 @@ This module works with: lists, tuples, sets and strings.
 
 The values of lists, tuples and sets must be strings.
 
-The output rowis: numbers, english, greek
+The output row is: numbers, english, greek
 
 
 
